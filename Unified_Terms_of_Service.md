@@ -20,7 +20,7 @@ We reserve the right to modify these terms at any time. Continued use of the cha
 - The content provided by the chatbots, including all underlying technology, is owned by Empty Words LLC or its licensors and is protected by intellectual property laws.
 
 ## 6. Data Collection and Use
-- Refer to our [Unified Privacy Policy](#privacy-policy-link) for information on how we collect and use your data across all chatbots.
+- Refer to our [Unified Privacy Policy](Unified_Privacy_Policy.md) for information on how we collect and use your data across all chatbots.
 
 ## 7. Disclaimer of Warranties
 - The chatbots are provided "as is" without any warranties of any kind, either express or implied.
