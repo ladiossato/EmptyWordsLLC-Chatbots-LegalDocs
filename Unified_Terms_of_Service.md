@@ -38,5 +38,11 @@ We reserve the right to modify these terms at any time. Continued use of the cha
 ## 11. Governing Law
 - These Terms of Service shall be governed by the laws of the state of Illinois, without regard to its conflict of law provisions.
 
-## 12. Contact Information
+## 12. Settling Disputes
+- Any disputes arising under these terms will be resolved through binding arbitration, conducted in accordance with the American Arbitration Association's rules.
+- By using our chatbots, you waive your right to a jury trial and agree to resolve any disputes through arbitration.
+- If either party brings a claim in a court that should be arbitrated or refuses to arbitrate a claim, the other party can seek to compel arbitration under the Federal Arbitration Act.
+- In the case of any dispute regarding the arbitration agreement or the enforceability of the arbitration clause, you and Empty Words LLC agree to resolve those disputes in a court of competent jurisdiction in Illinois.
+
+## 13. Contact Information
 For any questions about these Terms of Service, contact us at: empwod@gmail.com
